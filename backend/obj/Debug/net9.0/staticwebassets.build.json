@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "ClxMfudWNnXKYVMwlhTj5c/muy/T3E7nCKeaRCDzncw=",
+  "Source": "backend",
+  "BasePath": "_content/backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "backend\\wwwroot",
+      "Source": "backend",
+      "ContentRoot": "C:\\Users\\Tony\\Desktop\\dotnet\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Tony\\Desktop\\dotnet\\backend\\wwwroot\\images\\iphone.jpg",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Tony\\Desktop\\dotnet\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "images/iphone#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v6uxn6mw0e",
+      "Integrity": "6Tn/03kDNsfBTitW7G2f9ZLPbZbnPn+JdtaVKFUPQW4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\iphone.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Tony\\Desktop\\dotnet\\backend\\wwwroot\\images\\nike.jpg",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Tony\\Desktop\\dotnet\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "images/nike#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6qa1e2nfth",
+      "Integrity": "jjKuLr5Y7T5YA7F4exfBbtZBcuya58GvR0a6CwSPH6o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\nike.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Tony\\Desktop\\dotnet\\backend\\wwwroot\\images\\samsung.jpg",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Tony\\Desktop\\dotnet\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "images/samsung#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9buf7c86ci",
+      "Integrity": "y6H/z85gdAiZ1xxfnfbHcJxPNgcK1ZdSCqdKXijYrfw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\samsung.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/iphone.jpg",
+      "AssetFile": "C:\\Users\\Tony\\Desktop\\dotnet\\backend\\wwwroot\\images\\iphone.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "166316"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6Tn/03kDNsfBTitW7G2f9ZLPbZbnPn+JdtaVKFUPQW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Jul 2025 19:00:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6Tn/03kDNsfBTitW7G2f9ZLPbZbnPn+JdtaVKFUPQW4="
+        }
+      ]
+    },
+    {
+      "Route": "images/iphone.v6uxn6mw0e.jpg",
+      "AssetFile": "C:\\Users\\Tony\\Desktop\\dotnet\\backend\\wwwroot\\images\\iphone.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "166316"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6Tn/03kDNsfBTitW7G2f9ZLPbZbnPn+JdtaVKFUPQW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Jul 2025 19:00:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v6uxn6mw0e"
+        },
+        {
+          "Name": "label",
+          "Value": "images/iphone.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6Tn/03kDNsfBTitW7G2f9ZLPbZbnPn+JdtaVKFUPQW4="
+        }
+      ]
+    },
+    {
+      "Route": "images/nike.6qa1e2nfth.jpg",
+      "AssetFile": "C:\\Users\\Tony\\Desktop\\dotnet\\backend\\wwwroot\\images\\nike.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "596526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jjKuLr5Y7T5YA7F4exfBbtZBcuya58GvR0a6CwSPH6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Jul 2025 19:03:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6qa1e2nfth"
+        },
+        {
+          "Name": "label",
+          "Value": "images/nike.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jjKuLr5Y7T5YA7F4exfBbtZBcuya58GvR0a6CwSPH6o="
+        }
+      ]
+    },
+    {
+      "Route": "images/nike.jpg",
+      "AssetFile": "C:\\Users\\Tony\\Desktop\\dotnet\\backend\\wwwroot\\images\\nike.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "596526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jjKuLr5Y7T5YA7F4exfBbtZBcuya58GvR0a6CwSPH6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Jul 2025 19:03:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jjKuLr5Y7T5YA7F4exfBbtZBcuya58GvR0a6CwSPH6o="
+        }
+      ]
+    },
+    {
+      "Route": "images/samsung.9buf7c86ci.jpg",
+      "AssetFile": "C:\\Users\\Tony\\Desktop\\dotnet\\backend\\wwwroot\\images\\samsung.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y6H/z85gdAiZ1xxfnfbHcJxPNgcK1ZdSCqdKXijYrfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Jul 2025 19:01:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9buf7c86ci"
+        },
+        {
+          "Name": "label",
+          "Value": "images/samsung.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y6H/z85gdAiZ1xxfnfbHcJxPNgcK1ZdSCqdKXijYrfw="
+        }
+      ]
+    },
+    {
+      "Route": "images/samsung.jpg",
+      "AssetFile": "C:\\Users\\Tony\\Desktop\\dotnet\\backend\\wwwroot\\images\\samsung.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y6H/z85gdAiZ1xxfnfbHcJxPNgcK1ZdSCqdKXijYrfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Jul 2025 19:01:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y6H/z85gdAiZ1xxfnfbHcJxPNgcK1ZdSCqdKXijYrfw="
+        }
+      ]
+    }
+  ]
+}

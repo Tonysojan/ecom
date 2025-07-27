@@ -1,0 +1,40 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/backend/images/iphone.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\iphone.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6Tn/03kDNsfBTitW7G2f9ZLPbZbnPn\u002BJdtaVKFUPQW4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"166316"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00226Tn/03kDNsfBTitW7G2f9ZLPbZbnPn\u002BJdtaVKFUPQW4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 26 Jul 2025 19:00:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/backend/images/iphone.v6uxn6mw0e.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\iphone.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v6uxn6mw0e"},{"Name":"integrity","Value":"sha256-6Tn/03kDNsfBTitW7G2f9ZLPbZbnPn\u002BJdtaVKFUPQW4="},{"Name":"label","Value":"_content/backend/images/iphone.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"166316"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00226Tn/03kDNsfBTitW7G2f9ZLPbZbnPn\u002BJdtaVKFUPQW4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 26 Jul 2025 19:00:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/backend/images/nike.6qa1e2nfth.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\nike.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6qa1e2nfth"},{"Name":"integrity","Value":"sha256-jjKuLr5Y7T5YA7F4exfBbtZBcuya58GvR0a6CwSPH6o="},{"Name":"label","Value":"_content/backend/images/nike.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"596526"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022jjKuLr5Y7T5YA7F4exfBbtZBcuya58GvR0a6CwSPH6o=\u0022"},{"Name":"Last-Modified","Value":"Sat, 26 Jul 2025 19:03:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/backend/images/nike.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\nike.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jjKuLr5Y7T5YA7F4exfBbtZBcuya58GvR0a6CwSPH6o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"596526"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022jjKuLr5Y7T5YA7F4exfBbtZBcuya58GvR0a6CwSPH6o=\u0022"},{"Name":"Last-Modified","Value":"Sat, 26 Jul 2025 19:03:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/backend/images/samsung.9buf7c86ci.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\samsung.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9buf7c86ci"},{"Name":"integrity","Value":"sha256-y6H/z85gdAiZ1xxfnfbHcJxPNgcK1ZdSCqdKXijYrfw="},{"Name":"label","Value":"_content/backend/images/samsung.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"76924"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022y6H/z85gdAiZ1xxfnfbHcJxPNgcK1ZdSCqdKXijYrfw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 26 Jul 2025 19:01:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/backend/images/samsung.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\samsung.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-y6H/z85gdAiZ1xxfnfbHcJxPNgcK1ZdSCqdKXijYrfw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"76924"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022y6H/z85gdAiZ1xxfnfbHcJxPNgcK1ZdSCqdKXijYrfw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 26 Jul 2025 19:01:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
